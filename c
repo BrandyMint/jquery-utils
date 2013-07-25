@@ -1,2 +1,2 @@
 #!/bin/bash
-coffee --bare --join jquery_utils.js --compile src/*.coffee
+coffee --bare --join jquery-utils.js --compile src/*.coffee
