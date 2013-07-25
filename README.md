@@ -14,3 +14,14 @@ submitByEnter
 Пример применения:
 
     $('form#main_form textarea').submitByEnter()
+
+
+
+preventParentScroll
+-------------------
+
+Расширение jQuery предотвращает scrolling родительских элементов когда элемент в фокусе которого происходит scroll достигает верхней или нижней точки
+
+Пример применения:
+
+    $('div.messages_list').preventParentScroll()
