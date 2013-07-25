@@ -1,0 +1,3 @@
+(($) ->
+  true
+).call(this, jQuery)
