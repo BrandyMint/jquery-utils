@@ -1,0 +1,13 @@
+{
+  "name": "jquery-utils",
+  "version": "0.0.1",
+  "description": "various jquery extensions",
+  "main": "jquery-utils.js",
+  "dependencies": {
+    "jquery": "1.10.2"
+  },
+  "ignore": [
+    "src",
+    "c"
+  ]
+}
